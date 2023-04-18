@@ -45,9 +45,7 @@ I'm interested in ML, GameDev and desktop application development a little bit.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </a>
 
-<img src="https://readme-jokes.vercel.app/api?&theme=dracula&hideBorder" alt="Jokes Card" /> <img src="https://readme-jokes.vercel.app/api?&theme=dracula&hideBorder" alt="Jokes Card" />
-
-
+<img src="https://readme-jokes.vercel.app/api?&theme=dracula&hideBorder" alt="Jokes Card" />
 
 <!--
 **Renhas/Renhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
