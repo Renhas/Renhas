@@ -9,13 +9,14 @@
 ## About me:
 I'm a 3rd-year student :mortar_board: of Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
 
-I'm interested in ML, GameDev and desktop application development a little bit.
+I'm interested in ML, GameDev and Backend development a little bit.
 ### :computer: Technical Stack
 - **Python**:
   - Basics of ML (EDA, Classification, Regression)
     - Linear models
     - Ensembles
     - Random forest
+  - Jupyter Notebook with Google Collab
   - Some algorythms:
     - Nelder-Mead method
     - Hooke-Jeeves method (In progress :upside_down_face:)
@@ -26,8 +27,8 @@ I'm interested in ML, GameDev and desktop application development a little bit.
   - Unity:
     - Simple 2D Platformer
     - Simple 3D VR Game (in team)
-- **C++** - just the basics. I don't like it, tbh
-- **HTML\CSS** - just the basics. I studied them a long time ago
+- **C++** - just the basics.
+- **HTML\CSS** - just the basics.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)-->
 
