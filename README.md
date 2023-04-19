@@ -33,9 +33,10 @@ I'm interested in ML, GameDev and Backend development a little bit.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-9qf4mwgat-renhas.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&layout=compact&theme=darcula" height="200"/>
+<img src="https://github-readme-stats-9qf4mwgat-renhas.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&theme=darcula" height="200"/>
 </a>
-<a  href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats-9qf4mwgat-renhas.vercel.app/api?username=renhas&theme=darcula&show_icons=true" height="200"/>
 </a>
 
