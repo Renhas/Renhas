@@ -9,9 +9,9 @@
   
 
 ## About me:
-I'm a 3rd-year student :mortar_board: of Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
+I'm a 4th-year student :mortar_board: of Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
 
-I'm interested in ML, GameDev and Backend development a little bit.
+I'm interested in ML and GameDev.
 ### :computer: Technical Stack
 - **Python**:
   - DS & ML (EDA, Classification, Regression, CV):
