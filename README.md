@@ -24,11 +24,11 @@ I'm interested in ML and GameDev.
 - <a href="https://github.com/Renhas/Emulator">**Java**</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-seven-mu-74.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&theme=darcula&size_weight=0.5&count_weight=0.5" height="200"/>
+<img src="https://github-readme-stats-omega-nine-61.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&theme=darcula&size_weight=0.5&count_weight=0.5" height="200"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-seven-mu-74.vercel.app//api?username=renhas&theme=darcula&show_icons=true" height="200"/>
+<img src="https://github-readme-stats-omega-nine-61.vercel.app//api?username=renhas&theme=darcula&show_icons=true" height="200"/>
 </a>
 
 # Fun Zone
