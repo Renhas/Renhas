@@ -14,14 +14,13 @@ I'm a 4th-year student :mortar_board: of Lobachevsky University (UNN). Besides p
 I'm interested in ML and GameDev.
 ### :computer: Technical Stack
 - **Python**:
-  - <a href="https://github.com/Renhas/DS-Sber/tree/main/NN" > PyTorch </a>
-  - <a href="https://github.com/Renhas/DS-Sber/tree/main/Basics"> Scikit-learn </a>
-  - <a href="https://github.com/Renhas/DS-Sber/tree/main/Other"> Pandas & Numpy & Matplotlib</a>
+  - <a href="https://github.com/Renhas/DS-Sber/tree/main/NN" > PyTorch </a> (CV, NLP)
+  - <a href="https://github.com/Renhas/DS-Sber/tree/main/Basics"> Scikit-learn </a> (simple ML models)
+  - <a href="https://github.com/Renhas/DS-Sber/tree/main/Other"> Pandas & Numpy & Matplotlib</a> (Base EDA)
   - <a href="https://github.com/Renhas/Nelder_Mead_method"> Sympy </a>
 - **C#**:
   - GUI (WinForms & WPF)
   - <a href="https://github.com/Renhas/Food-VR"> Unity </a>
-- <a href="https://github.com/Renhas/Emulator">**Java**</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats-omega-nine-61.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&theme=darcula&size_weight=0.5&count_weight=0.5" height="200"/>
