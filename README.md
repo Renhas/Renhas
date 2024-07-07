@@ -9,7 +9,7 @@
   
 
 ## About me:
-Bachelor :mortar_board:, graduated from Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
+BSc in computer science :mortar_board:, graduated from Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
 
 I'm interested in ML and GameDev.
 ### :computer: Technical Stack
