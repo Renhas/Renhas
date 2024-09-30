@@ -19,14 +19,6 @@ I'm interested in ML and GameDev.
   - Pandas & Numpy & Matplotlib
 - **C#**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-smoky-one-83.vercel.app/api/top-langs/?username=renhas&hide=glsl,shaderlab&theme=darcula&size_weight=0.5&count_weight=0.5" height="200"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-smoky-one-83.vercel.app//api?username=renhas&theme=darcula&show_icons=true" height="200"/>
-</a>
-
 # Fun Zone
 <a  href="https://github.com/piyushsuthar/github-readme-quotes">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
