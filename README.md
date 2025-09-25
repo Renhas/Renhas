@@ -17,7 +17,14 @@ I'm interested in ML and GameDev.
   - PyTorch (CV, NLP)
   - Scikit-learn
   - Pandas & Numpy & Matplotlib
-- **C#**
+  - PyTest & Sphinx
+- **C#**:
+  - WinForms
+  - xUnit
+- **C++**:
+  - CUDA
+  - Thread & Data parallelization (vector computing)
+  - CMake & Doxygen & gtest
 
 # Fun Zone
 <a  href="https://github.com/piyushsuthar/github-readme-quotes">
