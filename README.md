@@ -8,23 +8,41 @@
 </div>
   
 
-## About me:
-BSc in computer science :mortar_board:, graduated from Lobachevsky University (UNN). Besides programming, I like video games :video_game: and 3D modelling :ice_cube:
+## About me 👋
+BSc in Computer Science 🎓, graduated from Lobachevsky University (UNN). 
+I'm passionate about Web Development, Machine Learning, and GameDev. 
+When I'm not coding, I enjoy playing video games 🎮 and 3D modelling 🧊.
 
-I'm interested in ML and GameDev.
-### :computer: Technical Stack
-- **Python**:
-  - PyTorch (CV, NLP)
-  - Scikit-learn
-  - Pandas & Numpy & Matplotlib
-  - PyTest & Sphinx
+### 💻 Technical Stack
+
+- **Python** 🐍 (Main):
+  - **Backend:** Django, Gunicorn
+  - **ML/Data:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+  - **Testing & CI:** PyTest, FactoryBoy, GitHub Actions
+  - **Quality & Docs:** Ruff, Codespell, pre-commit, Sphinx
+- **Frontend / Web** 🌐:
+  - **Basics:** HTML5, CSS3, JavaScript (ES6+)
+  - **UI / Styling:** Bootstrap 5, Bootstrap Icons, Lucide Icons
+  - **Interactivity:** HTMX, Alpine.js, SortableJS (Drag'n'Drop)
+  - **Data Viz:** Chart.js (including WordCloud plugin)
 - **C#**:
-  - WinForms
-  - xUnit
+  - **Desktop:** WinForms, basic WPF
+  - **Testing:** xUnit
+  - **GameDev:** Basic Unity (C#)
 - **C++**:
-  - CUDA
-  - Thread & Data parallelization (vector computing)
-  - CMake & Doxygen & gtest
+  - **Parallel Computing:** CUDA, multithreading, vectorization (SIMD)
+  - **Build & Tools:** CMake, Doxygen, GoogleTest
+- **Common & Infrastructure** ⚙️:
+  - **Databases:** PostgreSQL, SQL
+  - **DevOps:** Docker, Docker Compose, Nginx
+  - **Version Control:** Git, GitHub (Projects, Issues, PRs)
+
+### 🚀 Currently working on
+- **[Midgard Nexus](https://github.com/Renhas/Midgard-Nexus):**  Refactoring the codebase, fixing bugs, and developing the user profile module.
+
+### 🌱 Familiar with (Basic level)
+- Java, Go
+- Postman, Apache Kafka
 
 # Fun Zone
 <a  href="https://github.com/piyushsuthar/github-readme-quotes">
